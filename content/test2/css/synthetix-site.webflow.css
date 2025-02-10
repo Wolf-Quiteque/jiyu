@@ -5,7 +5,7 @@
   --light-opacity-50: rgba(255, 255, 255, .5);
   --light-opacity-25: rgba(255, 255, 255, .25);
   --light-opacity-3: rgba(255, 255, 255, .03);
-  --accent: #8f37ff;
+  --accent: #315EEB;
   --color: white;
 }
 
@@ -207,7 +207,7 @@ a {
 
 .accent-linear-text-color {
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(to right, #e964ff, #8f37ff);
+  background-image: linear-gradient(to right, #e964ff, #315EEB);
   -webkit-background-clip: text;
   background-clip: text;
 }
