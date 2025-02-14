@@ -207,7 +207,7 @@ a {
 
 .accent-linear-text-color {
   -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(to right, #e964ff, #315EEB);
+  background-image: linear-gradient(to right, #4397F7, #315EEB);
   -webkit-background-clip: text;
   background-clip: text;
 }
