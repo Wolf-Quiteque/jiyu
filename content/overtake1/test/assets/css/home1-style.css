@@ -227,9 +227,9 @@
       font-size: 14px;
       line-height: 20px; }
   .work-card .card-item .img {
-    padding: 20px; }
+    padding: 0px; }
     .work-card .card-item .img img {
-      border-radius: 15px; }
+      border-radius: 0px; }
 
 /* --------------- Clients --------------- */
 .clients-sa .item {
