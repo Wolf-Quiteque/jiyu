@@ -1,6 +1,6 @@
 :root {
-  --bg-color: #212121;
-  --theme-color: #151515; }
+  --bg-color: #000000;
+  --theme-color: #0A0A0A; }
 
 /* --------------- Menu --------------- */
 .navbar {
@@ -200,7 +200,7 @@
 /* --------------- Works --------------- */
 .work-card .card-item {
   margin-bottom: 30px;
-  border: 1px solid rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.3);
   border-radius: 10px;
   background: var(--bg-color); }
   .work-card .card-item .cont {

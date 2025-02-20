@@ -56,7 +56,7 @@ img.left {
   border-left: 1px solid rgba(0, 0, 0, 0.15); }
 
 .bord-thin-top-light {
-  border-top: 1px solid rgba(255, 255, 255, 0.15); }
+  border-top: 1px solid rgba(255, 255, 255, 0.4); }
 
 .bord-thin-bottom-light {
   border-bottom: 1px solid rgba(255, 255, 255, 0.15); }
