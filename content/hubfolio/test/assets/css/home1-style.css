@@ -64,7 +64,7 @@
     height: 100%;
     overflow: hidden;
     pointer-events: none;
-    background-image: url(../imgs/header/g-back.png);
+    background-image: url();
     background-size: cover;
     z-index: -1; }
     .header-sa .background:before {
@@ -96,7 +96,8 @@
   .header-sa .caption h1 {
     font-size: 96px;
     line-height: 96px;
-    letter-spacing: 0px; }
+    letter-spacing: 0px;
+    text-transform: uppercase; }
   .header-sa .caption .text {
     margin-top: 120px; }
   .header-sa .imgs {
@@ -123,6 +124,22 @@
         backdrop-filter: blur(10px);
         border-radius: 50%;
         z-index: -1; }
+
+ .bg-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+}
+
+.bg-video__content {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  
+}       
 
 /* --------------- Services --------------- */
 .services-sa .item {
