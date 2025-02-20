@@ -498,6 +498,9 @@ h6 {
 .sub-color {
   color: #808080; }
 
+.point-color {
+    color: #0066FF; }  
+
 .sub-head {
   font-size: 16px;
   text-transform: uppercase;
