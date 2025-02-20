@@ -374,8 +374,8 @@ body.loaded {
 
 .loader-wrap .loader-wrap-heading .load-text {
   color: #fff;
-  font-size: 20px;
-  font-weight: 200;
+  font-size: 40px;
+  font-weight: 400;
   letter-spacing: 15px;
   text-transform: uppercase;
   z-index: 20; }
