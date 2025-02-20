@@ -134,7 +134,7 @@
   z-index: -1;
 }
 
-.bg-video__content {
+.bg-video_content {
   height: 100%;
   width: 100%;
   object-fit: cover;
@@ -205,7 +205,7 @@
   background: var(--bg-color); }
   .work-card .card-item .cont {
     height: 100%;
-    padding: 40px 80px 40px 40px;
+    padding: 40px 40px 40px 40px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
