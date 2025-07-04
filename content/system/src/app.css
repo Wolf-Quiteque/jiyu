@@ -1,5 +1,0 @@
-@import '@g-loot/css-framework/styles/globals.css';
-
-h1 {
-  @apply text-4xl;
-}
